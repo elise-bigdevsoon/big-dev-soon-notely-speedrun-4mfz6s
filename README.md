@@ -3,7 +3,7 @@
 Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
 Create an application that allows users to manage their tasks with notes. The app should have the ability to add, edit, delete, and mark notes as completed. Challenge yourself by implementing a state management solution and persisting data across sessions. Additionally, include features such as searching and filtering for better organization and productivity.
-
+dfs
 ## How to start
 
 1. Start the project in our [app](https://app.bigdevsoon.me/) to get a feel for it.
